@@ -1,14 +1,17 @@
-wantedSize(X, S):- size(X, S).
+wantedSize(X, S):- size(X, Y), Y < S.
 budget(X, B):- price(X, P), P < B.
+small(X):-size(X,Y), Y<5.
+medium(X):-size(X,Y), Y<6, Y>=5.
+large(X):-size(X,Y), Y>=6.
 
-size(blackberryKey, small).
-size(samsungS9, medium).
-size(nokia51, medium).
-size(iPhoneXsMax, large).
-size(asusROG, large).
-size(huaweiHonorPlay, large).
-size(xiaomiPocoPhoneF1, large).
-size(htcU12Life, large).
+size(blackberryKey, 4.5).
+size(samsungS9, 5.8).
+size(nokia51, 5.5).
+size(iPhoneXsMax, 6.5).
+size(asusROG, 6).
+size(huaweiHonorPlay, 6.3).
+size(xiaomiPocoPhoneF1, 6.2).
+size(htcU12Life, 6).
 
 price(blackberryKey, 20700).
 price(samsungS9, 22800).
