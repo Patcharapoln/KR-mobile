@@ -1,4 +1,5 @@
 # KR-mobile
+Group work for Knowledge Representation
 # Knowledge Base
 1. Samsung  Galaxy S9 
     1. Brand: Samsung
