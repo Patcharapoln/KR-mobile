@@ -75,3 +75,6 @@
     6. Camera Back: 16.3 MP
     7. Camcorder Resolution: 3840x2160 pixel
     8. Battery Capacity: 3600 mAh
+
+# Document
+- [google doc](https://docs.google.com/document/d/1Rsldl2m5PCSEdpdhAhuH03pb5OOqUoyPDk5U9xL7_ic/edit?usp=sharing)
