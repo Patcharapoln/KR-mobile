@@ -10,7 +10,8 @@ Group work for Knowledge Representation
     6. Camera Back: 12.1 MP
     7. Camera Front: 8.0 MP
     8. Camcorder Resolution: 4096x2160 pixel
-    9. Battery Capacity: 3000 mAh 
+    9. Battery Capacity: 3000 mAh
+    10. Touchscreen : Yes
 2. Apple iPhone Xs Max
     1. Brand: Apple
     2. Price: 59500 baht
@@ -20,7 +21,8 @@ Group work for Knowledge Representation
     6. Camera Back: 12.2 MP
     7. Camera Front: 7.2 MP
     8. Camcorder Resolution: 3840x2160 pixel
-    9. Battery Capacity: 3174 mAh 
+    9. Battery Capacity: 3174 mAh
+    10. Touchscreen : Yes
 3. Asus ROG
     1. Brand: Asus
     2. Price: 39000 baht
@@ -30,7 +32,8 @@ Group work for Knowledge Representation
     6. Camera Back: 12.2 MP
     7. Camera Front: 8.0 MP
     8. Camcorder Resolution: 3840x2160 pixel
-    9. Battery Capacity: 4000 mAh 
+    9. Battery Capacity: 4000 mAh
+    10. Touchscreen : Yes
 4. Huawei Honor Play
     1. Brand: Huawei
     2. Price: 9990 baht
@@ -41,6 +44,7 @@ Group work for Knowledge Representation
     7. Camera Front: 15.9 MP
     8. Camcorder Resolution: 3840x2160 pixel
     9. Battery Capacity: 3750 mAh
+    10. Touchscreen : Yes
 5. RIM BlackBerry KEY2
     1. Brand: RIM
     2. Price: 20700 baht
@@ -51,6 +55,7 @@ Group work for Knowledge Representation
     7. Camera Front: 8.0 MP
     8. Camcorder Resolution: 3840x2160 pixel
     9. Battery Capacity: 3500 mAh
+    10. Touchscreen : Yes
 6. Nokia 5.1
     1. Brand: Nokia
     2. Price: 7500 baht
@@ -61,6 +66,7 @@ Group work for Knowledge Representation
     7. Camera Front: 8.0 MP
     8. Camcorder Resolution: 1920x1080 pixel
     9. Battery Capacity: 2970 mAh
+    10. Touchscreen : Yes
 7. Xiaomi Pocophone Poco F1
     1. Brand: Xiaomi
     2. Price: 10900 baht
@@ -71,6 +77,7 @@ Group work for Knowledge Representation
     7. Camera Front: 19.9 MP
     8. Camcorder Resoltion: 3840x2160 pixel
     9. Battery Capacity: 4000 mAh
+    10. Touchscreen : Yes
 8. HTC U12 life
     1. Brand: HTC
     2. Price: 13341 baht
@@ -81,6 +88,40 @@ Group work for Knowledge Representation
     7. Camera Front: 13.0 MP
     8. Camcorder Resolution: 3840x2160 pixel
     9. Battery Capacity: 3600 mAh
+    10. Touchscreen : Yes
+9. Nokia 7610
+    1. Brand: Nokia
+    2. Price: 6390 baht
+    3. Platform: Symbian
+    4. Display Resolution: 176x208
+    5. Display Diagonal: 2.1 inch
+    6. Camera Back: 1.0 MP
+    7. Camera Front: 0 MP
+    8. Camcorder Resolution: 0x0 pixel
+    9. Battery Capacity: 900 mAh
+    10. Touchscreen : No
+10. Nokia N-Gage
+    1. Brand: Nokia
+    2. Price: 3290 baht
+    3. Platform: Symbian
+    4. Display Resolution: 176x208
+    5. Display Diagonal: 2.1 inch
+    6. Camera Back: 0 MP
+    7. Camera Front: 0 MP
+    8. Camcorder Resolution: 0x0 pixel
+    9. Battery Capacity: 1070 mAh
+    10. Touchscreen : No
+11. Nokia 6122c
+    1. Brand: Nokia
+    2. Price: 4900 baht
+    3. Platform: Symbian
+    4. Display Resolution: 240x320
+    5. Display Diagonal: 2 inch
+    6. Camera Back: 1.9 MP
+    7. Camera Front: 0.1 MP
+    8. Camcorder Resolution: 320x240 pixel
+    9. Battery Capacity: 1070 mAh
+    10. Touchscreen : No
 
 # Document
 - [google doc](https://docs.google.com/document/d/1Rsldl2m5PCSEdpdhAhuH03pb5OOqUoyPDk5U9xL7_ic/edit?usp=sharing)
