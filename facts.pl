@@ -8,9 +8,9 @@ size(asusROG, 6).
 size(huaweiHonorPlay, 6.3).
 size(xiaomiPocoPhoneF1, 6.2).
 size(htcU12Life, 6).
-price(nokia7610, 2.1).
-price(nokiaNgage, 2.1).
-price(nokia6122c, 2).
+size(nokia7610, 2.1).
+size(nokiaNgage, 2.1).
+size(nokia6122c, 2).
 
 price(blackberryKey, 20700).
 price(samsungS9, 22800).
