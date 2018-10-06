@@ -116,3 +116,11 @@ suitable(nokiaNgage, Game).
 suitable(nokiaNgage, Music).
 
 suitable(nokia6122c, Music).
+
+% game (game name, screen suit to play game)
+% give game it will match mobile by its screen
+game(pubg, 6).
+game(identityv, 6).
+game(rov, 5.5).
+game(garenafreefire, 6).
+game(getrich, 5).
