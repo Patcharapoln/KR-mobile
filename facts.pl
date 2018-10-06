@@ -8,6 +8,9 @@ size(asusROG, 6).
 size(huaweiHonorPlay, 6.3).
 size(xiaomiPocoPhoneF1, 6.2).
 size(htcU12Life, 6).
+price(nokia7610, 2.1).
+price(nokiaNgage, 2.1).
+price(nokia6122c, 2).
 
 price(blackberryKey, 20700).
 price(samsungS9, 22800).
@@ -17,6 +20,9 @@ price(asusROG, 39000).
 price(huaweiHonorPlay, 9990).
 price(xiaomiPocoPhoneF1, 10900).
 price(htcU12Life, 13341).
+price(nokia7610, 6390).
+price(nokiaNgage, 3290).
+price(nokia6122c, 4900).
 
 backcamera(blackberryKey, 12).
 backcamera(samsungS9, 12.1).
@@ -26,6 +32,9 @@ backcamera(asusROG, 12.2).
 backcamera(huaweiHonorPlay, 15.9).
 backcamera(xiaomiPocoPhoneF1, 12).
 backcamera(htcU12Life, 16.3).
+backcamera(nokia7610, 1.0).
+backcamera(nokiaNgage, 0).
+backcamera(nokia6122c, 1.9).
 
 frontcamera(blackberryKey, 8).
 frontcamera(samsungS9, 8).
@@ -35,3 +44,18 @@ frontcamera(asusROG, 8).
 frontcamera(huaweiHonorPlay, 15.9).
 frontcamera(xiaomiPocoPhoneF1, 19.9).
 frontcamera(htcU12Life, 13.0).
+frontcamera(nokia7610, 0).
+frontcamera(nokiaNgage, 0).
+frontcamera(nokia6122c, 0.1).
+
+touchscreen(blackberryKey, Yes).
+touchscreen(samsungS9, Yes).
+touchscreen(nokia51, Yes).
+touchscreen(iPhoneXsMax, Yes).
+touchscreen(asusROG, Yes).
+touchscreen(huaweiHonorPlay, Yes).
+touchscreen(xiaomiPocoPhoneF1, Yes).
+touchscreen(htcU12Life, Yes).
+touchscreen(nokia7610, Yes).
+touchscreen(nokiaNgage, Yes).
+touchscreen(nokia6122c, Yes).
