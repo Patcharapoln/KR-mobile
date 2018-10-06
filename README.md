@@ -61,7 +61,6 @@ Group work for Knowledge Representation
     7. Camera Front: 8.0 MP
     8. Camcorder Resolution: 1920x1080 pixel
     9. Battery Capacity: 2970 mAh
-
 7. Xiaomi Pocophone Poco F1
     1. Brand: Xiaomi
     2. Price: 10900 baht
@@ -72,7 +71,6 @@ Group work for Knowledge Representation
     7. Camera Front: 19.9 MP
     8. Camcorder Resoltion: 3840x2160 pixel
     9. Battery Capacity: 4000 mAh
-
 8. HTC U12 life
     1. Brand: HTC
     2. Price: 13341 baht
