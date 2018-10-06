@@ -13,6 +13,8 @@ Group work for Knowledge Representation
     9. Battery Capacity: 3000 mAh
     10. Touchscreen: Yes
     11. Suitable: Work, Game, Internet, Social, Live, Music, Movie
+    12. Ram: 4 gb
+    13. CPU clock speed: 2700 MHz
 2. Apple iPhone Xs Max
     1. Brand: Apple
     2. Price: 59500 baht
@@ -25,6 +27,8 @@ Group work for Knowledge Representation
     9. Battery Capacity: 3174 mAh
     10. Touchscreen: Yes
     11. Suitable: Work, Game, Internet, Social, Live, Music, Movie
+    12. Ram: 4 gb
+    13. CPU clock speed: 2490 MHz
 3. Asus ROG
     1. Brand: Asus
     2. Price: 39000 baht
@@ -37,6 +41,8 @@ Group work for Knowledge Representation
     9. Battery Capacity: 4000 mAh
     10. Touchscreen: Yes
     11. Suitable: Game, Internet, Social, Music, Movie
+    12. Ram: 8 gb
+    13. CPU clock speed: 2960 MHz
 4. Huawei Honor Play
     1. Brand: Huawei
     2. Price: 9990 baht
@@ -49,6 +55,8 @@ Group work for Knowledge Representation
     9. Battery Capacity: 3750 mAh
     10. Touchscreen: Yes
     11. Suitable: Internet, Social, Live, Music, Movie
+    12. Ram: 4 gb
+    13. CPU clock speed: 2360 MHz
 5. RIM BlackBerry KEY2
     1. Brand: RIM
     2. Price: 20700 baht
@@ -61,6 +69,8 @@ Group work for Knowledge Representation
     9. Battery Capacity: 3500 mAh
     10. Touchscreen: Yes
     11. Suitable: Work, Internet, Social
+    12. Ram: 4 gb
+    13. CPU clock speed: 1800 MHz
 6. Nokia 5.1
     1. Brand: Nokia
     2. Price: 7500 baht
@@ -73,6 +83,8 @@ Group work for Knowledge Representation
     9. Battery Capacity: 2970 mAh
     10. Touchscreen: Yes
     11. Suitable: Work, Internet, Social
+    12. Ram: 4 gb
+    13. CPU clock speed: 2000 MHz
 7. Xiaomi Pocophone Poco F1
     1. Brand: Xiaomi
     2. Price: 10900 baht
@@ -85,6 +97,8 @@ Group work for Knowledge Representation
     9. Battery Capacity: 4000 mAh
     10. Touchscreen: Yes
     11. Suitable: Work, Internet, Social, Live, Music, Movie
+    12. Ram: 6 gb
+    13. CPU clock speed: 2800 MHz
 8. HTC U12 life
     1. Brand: HTC
     2. Price: 13341 baht
@@ -96,7 +110,9 @@ Group work for Knowledge Representation
     8. Camcorder Resolution: 3840x2160 pixel
     9. Battery Capacity: 3600 mAh
     10. Touchscreen: Yes
-    11. Suitable: Work, Game, Internet, Social, Music
+    11. Suitable: Work, Internet, Social, Music
+    12. Ram: 4 gb
+    13. CPU clock speed: 1800 MHz
 9. Nokia 7610
     1. Brand: Nokia
     2. Price: 6390 baht
@@ -108,7 +124,9 @@ Group work for Knowledge Representation
     8. Camcorder Resolution: 0x0 pixel
     9. Battery Capacity: 900 mAh
     10. Touchscreen: No
-    11. Suitable: Game, Music
+    11. Suitable: Music
+    12. Ram: 16 mb
+    13. CPU clock speed: 123 MHz
 10. Nokia N-Gage
     1. Brand: Nokia
     2. Price: 3290 baht
@@ -121,6 +139,8 @@ Group work for Knowledge Representation
     9. Battery Capacity: 1070 mAh
     10. Touchscreen: No
     11. Suitable: Game, Music
+    12. Ram: 16 mb
+    13. CPU clock speed: 104 MHz
 11. Nokia 6122c
     1. Brand: Nokia
     2. Price: 4900 baht
@@ -133,6 +153,8 @@ Group work for Knowledge Representation
     9. Battery Capacity: 1070 mAh
     10. Touchscreen: No
     11. Suitable: Music
+    12. Ram: 16 mb
+    13. CPU clock speed: 0 MHzc
 
 # Document
 - [google doc](https://docs.google.com/document/d/1Rsldl2m5PCSEdpdhAhuH03pb5OOqUoyPDk5U9xL7_ic/edit?usp=sharing)
