@@ -59,3 +59,60 @@ touchscreen(htcU12Life, Yes).
 touchscreen(nokia7610, Yes).
 touchscreen(nokiaNgage, Yes).
 touchscreen(nokia6122c, Yes).
+
+suitable(blackberryKey, Work).
+suitable(blackberryKey, Internet).
+suitable(blackberryKey, Social).
+
+suitable(samsungS9, Work).
+suitable(samsungS9, Game).
+suitable(samsungS9, Internet).
+suitable(samsungS9, Social).
+suitable(samsungS9, Live).
+suitable(samsungS9, Music).
+suitable(samsungS9, Movie).
+
+suitable(nokia51, Work).
+suitable(nokia51, Internet).
+suitable(nokia51, Social).
+
+suitable(iPhoneXsMax, Work).
+suitable(iPhoneXsMax, Game).
+suitable(iPhoneXsMax, Internet).
+suitable(iPhoneXsMax, Social).
+suitable(iPhoneXsMax, Live).
+suitable(iPhoneXsMax, Music).
+suitable(iPhoneXsMax, Movie).
+
+suitable(asusROG, Game).
+suitable(asusROG, Internet).
+suitable(asusROG, Social).
+suitable(asusROG, Music).
+suitable(asusROG, Movie).
+
+suitable(huaweiHonorPlay, Internets).
+suitable(huaweiHonorPlay, Social).
+suitable(huaweiHonorPlay, Live).
+suitable(huaweiHonorPlay, Music).
+suitable(huaweiHonorPlay, Movie).
+
+suitable(xiaomiPocoPhoneF1, Work).
+suitable(xiaomiPocoPhoneF1, Internet).
+suitable(xiaomiPocoPhoneF1, Social).
+suitable(xiaomiPocoPhoneF1, Live).
+suitable(xiaomiPocoPhoneF1, Music).
+suitable(xiaomiPocoPhoneF1, Movie).
+
+suitable(htcU12Life, Work).
+suitable(htcU12Life, Game).
+suitable(htcU12Life, Internet).
+suitable(htcU12Life, Social).
+suitable(htcU12Life, Music).
+
+suitable(nokia7610, Game).
+suitable(nokia7610, Music).
+
+suitable(nokiaNgage, Game).
+suitable(nokiaNgage, Music).
+
+suitable(nokia6122c, Music).
