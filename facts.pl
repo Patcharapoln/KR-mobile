@@ -26,3 +26,12 @@ backcamera(asusROG, 12.2).
 backcamera(huaweiHonorPlay, 15.9).
 backcamera(xiaomiPocoPhoneF1, 12).
 backcamera(htcU12Life, 16.3).
+
+frontcamera(blackberryKey, 8).
+frontcamera(samsungS9, 8).
+frontcamera(nokia51, 8).
+frontcamera(iPhoneXsMax, 7.2).
+frontcamera(asusROG, 8).
+frontcamera(huaweiHonorPlay, 15.9).
+frontcamera(xiaomiPocoPhoneF1, 19.9).
+frontcamera(htcU12Life, 13.0).
