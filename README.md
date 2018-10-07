@@ -5,7 +5,7 @@ Group work for Knowledge Representation
 ```sh
 swipl mobile.pl
 ```
-Commands
+**Commands**
 - `wantedSize(X).`
 - `wantedBudget(X).`
 - `wantedCamera(X).`
