@@ -1,6 +1,20 @@
 # KR-mobile
 Group work for Knowledge Representation
-# Knowledge Base
+
+## Usage
+```sh
+swipl mobile.pl
+```
+Commands
+- `wantedSize(X).`
+- `wantedBudget(X).`
+- `wantedCamera(X).`
+- `wantedFrontCamera(X).`
+- `wantedScreen(X).`
+- `wantedAbility(X).`
+- `wantedGame(X).`
+
+## Knowledge Base
 1. Samsung  Galaxy S9 
     1. Brand: Samsung
     2. Price: 22800 baht
