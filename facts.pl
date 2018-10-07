@@ -143,8 +143,14 @@ cpuclock(nokia6122c, 0).
 
 % game (game name, screen suit to play game, cpuclock, ram)
 % give game it will match mobile by its screen
-game(pubg, 6, >2490).
-game(identityv, 6, >2490).
-game(rov, 5.5, >2300).
-game(garenafreefire, 6, >2000).
-game(getrich, 5, >2000).
+gameCPU(pubg, 2490).
+gameCPU(identityv, 2490).
+gameCPU(rov, 2300).
+gameCPU(garenafreefire, 2000).
+gameCPU(getrich, 2000).
+
+gameRAM(pubg, 6).
+gameRAM(identityv, 6).
+gameRAM(rov, 5.5).
+gameRAM(garenafreefire, 6).
+gameRAM(getrich, 5).
