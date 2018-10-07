@@ -1,5 +1,10 @@
 # KR-mobile
 Group work for Knowledge Representation
+## Members
+1. Chawakorn Suphepre 5910545671
+2. Patcharapol Nirunpornputta 5910545761
+3. Archawin Tirugsapun 5910545892
+4. Jirayu Laungwilawan 5910546635
 
 ## Usage
 ```sh
