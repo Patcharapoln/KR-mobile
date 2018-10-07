@@ -1,15 +1,15 @@
 :- module(facts,[]).
 
 size(blackberryKey, 4.5).
-size(samsungS9, 5.8).
+size(samsungs9, 5.8).
 size(nokia51, 5.5).
-size(iPhoneXsMax, 6.5).
-size(asusROG, 6).
-size(huaweiHonorPlay, 6.3).
-size(xiaomiPocoPhoneF1, 6.2).
-size(htcU12Life, 6).
+size(iphonexsmax, 6.5).
+size(asusrog, 6).
+size(huaweihonorPlay, 6.3).
+size(xiaomipocophonef1, 6.2).
+size(htcu12life, 6).
 size(nokia7610, 2.1).
-size(nokiaNgage, 2.1).
+size(nokiangage, 2.1).
 size(nokia6122c, 2).
 
 price(blackberryKey, 20700).
@@ -48,74 +48,74 @@ frontcamera(nokia7610, 0).
 frontcamera(nokiaNgage, 0).
 frontcamera(nokia6122c, 0.1).
 
-touchscreen(blackberryKey, Yes).
-touchscreen(samsungS9, Yes).
-touchscreen(nokia51, Yes).
-touchscreen(iPhoneXsMax, Yes).
-touchscreen(asusROG, Yes).
-touchscreen(huaweiHonorPlay, Yes).
-touchscreen(xiaomiPocoPhoneF1, Yes).
-touchscreen(htcU12Life, Yes).
-touchscreen(nokia7610, Yes).
-touchscreen(nokiaNgage, Yes).
-touchscreen(nokia6122c, Yes).
+touchscreen(blackberryKey, yes).
+touchscreen(samsungS9, yes).
+touchscreen(nokia51, yes).
+touchscreen(iPhoneXsMax, yes).
+touchscreen(asusROG, yes).
+touchscreen(huaweiHonorPlay, yes).
+touchscreen(xiaomiPocoPhoneF1, yes).
+touchscreen(htcU12Life, yes).
+touchscreen(nokia7610, no).
+touchscreen(nokiangage, no).
+touchscreen(nokia6122c, no).
 
-suitable(blackberryKey, Work).
-suitable(blackberryKey, Internet).
-suitable(blackberryKey, Social).
+suitable(blackberryKey, work).
+suitable(blackberrykey, internet).
+suitable(blackberrykey, social).
 
-suitable(samsungS9, Work).
-suitable(samsungS9, Game).
-suitable(samsungS9, Internet).
-suitable(samsungS9, Social).
-suitable(samsungS9, Live).
-suitable(samsungS9, Music).
-suitable(samsungS9, Movie).
+suitable(samsungS9, work).
+suitable(samsungs9, game).
+suitable(samsungs9, internet).
+suitable(samsungs9, social).
+suitable(samsungs9, live).
+suitable(samsungs9, music).
+suitable(samsungs9, movie).
 
-suitable(nokia51, Work).
-suitable(nokia51, Internet).
-suitable(nokia51, Social).
+suitable(nokia51, work).
+suitable(nokia51, internet).
+suitable(nokia51, social).
 
-suitable(iPhoneXsMax, Work).
-suitable(iPhoneXsMax, Game).
-suitable(iPhoneXsMax, Internet).
-suitable(iPhoneXsMax, Social).
-suitable(iPhoneXsMax, Live).
-suitable(iPhoneXsMax, Music).
-suitable(iPhoneXsMax, Movie).
+suitable(iPhoneXsMax, work).
+suitable(iphonexsmax, game).
+suitable(iphonexsmax, internet).
+suitable(iphonexsmax, social).
+suitable(iphonexsmax, live).
+suitable(iphonexsmax, music).
+suitable(iphonexsmax, movie).
 
-suitable(asusROG, Game).
-suitable(asusROG, Internet).
-suitable(asusROG, Social).
-suitable(asusROG, Music).
-suitable(asusROG, Movie).
+suitable(asusROG, game).
+suitable(asusrog, internet).
+suitable(asusrog, social).
+suitable(asusrog, music).
+suitable(asusrog, movie).
 
-suitable(huaweiHonorPlay, Internets).
-suitable(huaweiHonorPlay, Social).
-suitable(huaweiHonorPlay, Live).
-suitable(huaweiHonorPlay, Music).
-suitable(huaweiHonorPlay, Movie).
+suitable(huaweiHonorPlay, internets).
+suitable(huaweihonorplay, social).
+suitable(huaweihonorplay, live).
+suitable(huaweihonorplay, music).
+suitable(huaweihonorplay, movie).
 
-suitable(xiaomiPocoPhoneF1, Work).
-suitable(xiaomiPocoPhoneF1, Internet).
-suitable(xiaomiPocoPhoneF1, Social).
-suitable(xiaomiPocoPhoneF1, Live).
-suitable(xiaomiPocoPhoneF1, Music).
-suitable(xiaomiPocoPhoneF1, Movie).
+suitable(xiaomiPocoPhoneF1, work).
+suitable(xiaomipocophonef1, internet).
+suitable(xiaomipocophonef1, social).
+suitable(xiaomipocophonef1, live).
+suitable(xiaomipocophonef1, music).
+suitable(xiaomipocophonef1, movie).
 
-suitable(htcU12Life, Work).
-suitable(htcU12Life, Game).
-suitable(htcU12Life, Internet).
-suitable(htcU12Life, Social).
-suitable(htcU12Life, Music).
+suitable(htcU12Life, work).
+suitable(htcu12life, game).
+suitable(htcu12life, internet).
+suitable(htcu12life, social).
+suitable(htcu12life, music).
 
-suitable(nokia7610, Game).
-suitable(nokia7610, Music).
+suitable(nokia7610, game).
+suitable(nokia7610, music).
 
-suitable(nokiaNgage, Game).
-suitable(nokiaNgage, Music).
+suitable(nokiaNgage, game).
+suitable(nokiangage, music).
 
-suitable(nokia6122c, Music).
+suitable(nokia6122c, music).
 
 % game (game name, screen suit to play game)
 % give game it will match mobile by its screen
