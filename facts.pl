@@ -117,10 +117,34 @@ suitable(nokiangage, music).
 
 suitable(nokia6122c, music).
 
-% game (game name, screen suit to play game)
+ram(blackberryKey, 4).
+ram(samsungS9, 4).
+ram(nokia51, 4).
+ram(iPhoneXsMax, 4).
+ram(asusROG, 8).
+ram(huaweiHonorPlay, 4).
+ram(xiaomiPocoPhoneF1, 6).
+ram(htcU12Life, 4).
+ram(nokia7610, 0.016).
+ram(nokiaNgage, 0.016).
+ram(nokia6122c, 0.016).
+
+cpuclock(blackberryKey, 1800).
+cpuclock(samsungS9, 2700).
+cpuclock(nokia51, 2000).
+cpuclock(iPhoneXsMax, 2490).
+cpuclock(asusROG, 2960).
+cpuclock(huaweiHonorPlay, 2360).
+cpuclock(xiaomiPocoPhoneF1, 2800).
+cpuclock(htcU12Life, 1800).
+cpuclock(nokia7610, 123).
+cpuclock(nokiaNgage, 104).
+cpuclock(nokia6122c, 0).
+
+% game (game name, screen suit to play game, cpuclock, ram)
 % give game it will match mobile by its screen
-game(pubg, 6).
-game(identityv, 6).
-game(rov, 5.5).
-game(garenafreefire, 6).
-game(getrich, 5).
+game(pubg, 6, >2490).
+game(identityv, 6, >2490).
+game(rov, 5.5, >2300).
+game(garenafreefire, 6, >2000).
+game(getrich, 5, >2000).
